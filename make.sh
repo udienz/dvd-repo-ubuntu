@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # Another way to create DVD repository 
+# need debpartial package, but currently disappear from debian stable. download grom this git
+# and also need ruby
 #
 # Copyright (C) 2010  Mahyuddin Susanto <udienz@blankonlinux.or.id>
 #
